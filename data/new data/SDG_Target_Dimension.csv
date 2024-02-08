@@ -1,0 +1,37 @@
+Target_Key,Main_SDG,indicator,Target,Type
+400,No Poverty,1.2.1 Poverty Proportion,10.8,reduce
+404,No Poverty,1.4.1 Net Elem Enrolment Rate,100,increase
+408,No Poverty,1.4.1 Net Elem Enrolment Rate (Girls),100,increase
+412,No Poverty,1.4.1 Net Elem Enrolment Rate (Boys),100,increase
+416,No Poverty,1.4.1 Net JHS Enrolment Rate,100,increase
+420,No Poverty,1.4.1 Net JHS Enrolment Rate (Girls),100,increase
+424,No Poverty,1.4.1 Net JHS Enrolment Rate (Boys),100,increase
+428,No Poverty,1.4.1 Net SHS Enrolment Rate,100,increase
+432,No Poverty,1.4.1 Net SHS Enrolment Rate (Girls),100,increase
+436,No Poverty,1.4.1 Net SHS Enrolment Rate (Boys),100,increase
+440,No Poverty,1.5.4 Proportion of LGU with DRR,100,increase
+444,Good Health and Well-Being,3.4.1 Mortality rate credited to NCD,0.2,Reduce
+448,Good Health and Well-Being,3.4.1 Mortality rate credited to Cardio,1.8,reduce
+452,Good Health and Well-Being,3.4.1 Mortality rate credited to Cancer,0.7,reduce
+456,Good Health and Well-Being,3.4.1 Mortality rate credited to Diabetes,0.4,reduce
+460,Good Health and Well-Being,3.4.1 Mortality rate credited to Respiratory Disease,0.2,reduce
+464,Good Health and Well-Being,3.7.1 Proportion of Contraceptive Use of Women,100,increase
+468,Good Health and Well-Being,3.7.2 Teenage pregnancy rates per 1000,30.3,reduce
+472,Quality Education,4.1 Elem Completion Rate,100,increase
+476,Quality Education,4.1 Elem Completion Rate (Female),100,increase
+480,Quality Education,4.1 Elem Completion Rate (Male),100,increase
+484,Quality Education,4.1 JHS Completion Rate,100,increase
+488,Quality Education,4.1 JHS Completion Rate (Female),100,increase
+492,Quality Education,4.1 JHS Completion Rate (Male),100,increase
+496,Quality Education,4.1 SHS Completion Rate,100,increase
+500,Quality Education,4.1 SHS Completion Rate (Female),100,increase
+504,Quality Education,4.1 SHS Completion Rate (Male),100,increase
+508,Quality Education,4.c TVET trainers trained,100,increase
+512,Affordable and Clean Energy,7.1.1 Proportion of pop with electricity,100,increase
+516,Decent Work and Economic Growth,8.1.1 Growth rate of real GDP per capita,6,increase
+520,Reduced Inequalities,10.1.1.1 Income per capita growth rate of bottom 40,0.2,reduce
+524,Reduced Inequalities,10.1.1.2 Income per capita growth rate,0.2,reduce
+528,Life Below Water,14.5.1.1 Coverage of protected areas,100,increase
+532,Life Below Water,14.5.1.2 Coverage of protected NIPAS and Locally managed MPAs,0.7,increase
+536,"Peace, Justice and Strong Institutions","16.1.1 Victims of intentional homicide per 100,000",10,reduce
+540,"Peace, Justice and Strong Institutions",16.1.s1 Number of murder cases,10,reduce
